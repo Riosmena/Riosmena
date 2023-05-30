@@ -6,7 +6,7 @@
 🖥️ I’m currently working on Game app development and Web deployment.<br>
 💯 I’m currently learning Game development, Web development, Device interconnection, networks, and Computational methods.<br>
 🤝 I’m looking to collaborate on Game development, Construction of genetic algorithms and AIs.<br>
-📫 How to reach me **correo_de_emiliano@yahoo.com.mx**
+📫 How to reach me **correo_de_emiliano@yahoo.com.mx**<brZ
 💬 Ask me about Python, C/C++, HTML/CSS, JavaScript, MATLAB, SQL.<br>
 🎸 Fun facts: I'm a football player at Borregos Querétaro, number 66. I also like to play the guitar.
 
@@ -26,6 +26,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Riosmena&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riosmena&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Riosmena&limit=8&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=ricardo020202&icon=0&color=0)](https://visitcount.itsvg.in)
