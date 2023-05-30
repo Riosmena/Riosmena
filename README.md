@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/kc6n0RKTFbDJC/giphy.gif)
+![MasterHead](https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif)
 
 ### Cyberdyne Systems Model 101 🤖
 
