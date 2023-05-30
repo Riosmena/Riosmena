@@ -1,9 +1,12 @@
+![MasterHead](https://media.giphy.com/media/qDQj6tO9V3Fas7fkkP/giphy.gif)
+
 ### Cyberdyne Systems Model 101 🤖
 
 # 👨 About Me:
 🖥️ I’m currently working on Game app development and Web deployment.<br>
 💯 I’m currently learning Game development, Web development, Device interconnection, networks, and Computational methods.<br>
 🤝 I’m looking to collaborate on Game development, Construction of genetic algorithms and AIs.<br>
+📫 How to reach me **correo_de_emiliano@yahoo.com.mx**
 💬 Ask me about Python, C/C++, HTML/CSS, JavaScript, MATLAB, SQL.<br>
 🎸 Fun facts: I'm a football player at Borregos Querétaro, number 66. I also like to play the guitar.
 
