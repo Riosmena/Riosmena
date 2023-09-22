@@ -1,6 +1,11 @@
-![MasterHead](https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif)
+<h1 align="center">Hi! I'm José Riosmena 🐼🎸💻🎮</h1>
 
-### Cyberdyne Systems Model 101 🤖
+<h3 align="center">Cyberdyne Systems Model 101 🤖</h3>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif" width="1000">
+</p>
+
 
 # 👨 About Me:
 🖥️ I’m currently working on Game app development and Web deployment.<br>
