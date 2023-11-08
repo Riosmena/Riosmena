@@ -8,12 +8,45 @@
 
 
 # 👨 About Me:
-🖥️ I’m currently working on Game app development and Web deployment.<br>
-💯 I’m currently learning Game development, Web development, Device interconnection, networks, and Computational methods.<br>
-🤝 I’m looking to collaborate on Game development, Construction of genetic algorithms and AIs.<br>
-📫 How to reach me **correo_de_emiliano@yahoo.com.mx**<br>
-💬 Ask me about Python, C/C++, HTML/CSS, JavaScript, MATLAB, SQL.<br>
-🎸 Fun facts: I'm a football player at Borregos Querétaro, number 66. I also like to play the guitar.
+```c++
+const Riosmena = new Person("José Riosmena");
+
+// About ================
+Riosmena.age = 20;
+Riosmena.located_at = "Querétaro, México";
+Riosmena.major = "BS. Computer Science";
+Riosmena.education = "ITESM Campus Qro"
+Riosmena.interests = [
+    "Web Development",
+    "Machine Learning",
+    "Game Development",
+    "DevOps",
+];
+Riosmena.languages["Spanish"] = "Native";
+Riosmena.languages["English"] = "Proficient";
+
+// Experience ============
+Riosmena.job = "EID Intern";
+Riosmena.works_at = "GE Aerospace";
+
+// Hobbies ===============
+Riosmena.sport = "American Football";
+Riosmena.instruments = [
+    "Guitar",
+    "Bass Guitar",
+    "Violin",
+    "Piano",
+];
+
+// Learning =============
+for (;;) {
+    try {
+        Riosmena.improve();
+    } catch(error) {
+        Riosmena.learn_from(error);
+    }
+}
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/josé-emiliano-riosmena-castañón-286009251)
