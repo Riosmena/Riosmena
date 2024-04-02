@@ -1,6 +1,4 @@
-<h1 align="center">Hi! I'm José Riosmena 🐼🎸💻🎮</h1>
-
-<h3 align="center">Cyberdyne Systems Model 101 🤖</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=008E00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+José+Riosmena!+🐼🎸🤙;Cyberdyne+Systems+Model+101+🤖;Computer+Science+student+at+ITESM+Qro+💻🏫;Intern+at+GE+Aerospace+✈️🛩️;Welcome+to+my+GitHub!+👋)](https://git.io/typing-svg)
 
 <p align="center">
     <img src="https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif" width="1000">
@@ -12,7 +10,7 @@
 const Riosmena = new Person("José Riosmena");
 
 // About ================
-Riosmena.age = 20;
+Riosmena.age = 21;
 Riosmena.located_at = "Querétaro, México";
 Riosmena.major = "BS. Computer Science";
 Riosmena.education = "ITESM Campus Qro"
@@ -23,7 +21,8 @@ Riosmena.interests = [
     "DevOps",
 ];
 Riosmena.languages["Spanish"] = "Native";
-Riosmena.languages["English"] = "Proficient";
+Riosmena.languages["English"] = "Advanced";
+Riosmena.languages["Italian"] = "Beginner";
 
 // Experience ============
 Riosmena.job = "EID Intern";
@@ -32,10 +31,12 @@ Riosmena.works_at = "GE Aerospace";
 // Hobbies ===============
 Riosmena.sport = "American Football";
 Riosmena.instruments = [
-    "Guitar",
+    "Acoustic Guitar",
+    "Electric Guitar",
     "Bass Guitar",
     "Violin",
     "Piano",
+    "Drums",
 ];
 
 // Learning =============
@@ -49,13 +50,13 @@ for (;;) {
 ```
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/josé-emiliano-riosmena-castañón-286009251)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/🛠️-josé-emiliano-riosmena-castañón-286009251)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/panda_608755/)
 
 # 💻 Tech Stack:
 
 <p align="left">    
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,py,java,jquery,github,git,linux,arduino,androidstudio,aws,figma,bash,kotlin,r,matlab,rust,nodejs,react,mysql,firebase,blender,unity,ts,md,sequelize,flask,php,expressjs,photoshop,bootstrap,tailwind,postman,perl,visualstudio,vscode,gradle,unreal,cmake,dotnet,gamemakerstudio,gcp,ai,nextjs,powershell,regex,vercel,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,py,java,jquery,github,git,linux,arduino,androidstudio,aws,figma,bash,kotlin,r,matlab,rust,nodejs,react,mysql,firebase,blender,unity,ts,md,sequelize,flask,php,expressjs,photoshop,bootstrap,tailwind,postman,perl,visualstudio,vscode,gradle,unreal,cmake,dotnet,gamemakerstudio,gcp,ai,nextjs,powershell,regex,vercel,nginx,wordpress,swift&theme=dark" />
 </p>
 
 # 📊 GitHub Stats:
