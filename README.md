@@ -50,7 +50,7 @@ for (;;) {
 ```
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/🛠️-josé-emiliano-riosmena-castañón-286009251)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/🛠️-josé-emiliano-riosmena-castañón-286009251)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/panda_608755/)
 
 # 💻 Tech Stack:
